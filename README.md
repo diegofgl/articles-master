@@ -1,6 +1,6 @@
 # articles-master
 
-O projeto [articles-master] é um aplicativo iOS que oferece uma experiência de leitura de notícias personalizada para os usuários. Ele consome dados de uma API de notícias para exibir as principais notícias de última hora e permite aos usuários visualizá-las em uma interface de usuário agradável. O aplicativo inclui as seguintes funcionalidades:
+É um aplicativo iOS que oferece uma experiência de leitura de notícias personalizada para os usuários. Ele consome dados de uma API de notícias para exibir as principais notícias de última hora e permite aos usuários visualizá-las em uma interface de usuário agradável. O aplicativo inclui as seguintes funcionalidades:
 
 Exibição de notícias em uma tabela na tela inicial.
 Tela de detalhes para cada notícia, onde os usuários podem ver o título, descrição, imagem relacionada e outros detalhes da notícia.
